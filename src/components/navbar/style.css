@@ -1,0 +1,23 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    padding: 86.5px;
+    color: #FFFFFF;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    width: 100%;
+    line-height: 21px;
+    /* identical to box height */
+
+    text-transform: capitalize;
+
+}
+
+.navLink {
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+    cursor: pointer;
+}
